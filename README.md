@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @julianscunha
+- 👀 I’m interested in technology and sports.
+- 🌱 I’m currently learning about virtualization and backup.
+- 💞️ I’m looking to collaborate on infrastructure projects.
+- 📫 juliano.lcunha@gmail.com
