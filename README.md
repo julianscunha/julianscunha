@@ -60,12 +60,13 @@ Senior Technical Consultant with 15+ years in IT infrastructure, specializing in
 
 # AI / Automation Expertise
 
-| Domain | Level | Details |
-|--------|-------|---------|
-| Infrastructure Automation | Advanced | PowerShell/Bash for Veeam & VMware operations |
-| AI-assisted Development | Advanced | Productivity tooling and internal platforms |
-| Prompt Engineering | Intermediate | Structured prompts for engineering workflows |
-| LLM Orchestration | Intermediate | Multi-provider routing and governance |
+| Domain | Proficiency | Details |
+|--------|:-----------:|---------|
+| Infrastructure Automation | ⭐⭐⭐⭐⭐ | PowerShell/Bash for Veeam & VMware operations |
+| AI-assisted Development | ⭐⭐⭐⭐☆ | Productivity tooling and internal platforms |
+| Prompt Engineering | ⭐⭐⭐☆☆ | Structured prompts for engineering workflows |
+| LLM Orchestration | ⭐⭐⭐☆☆ | Multi-provider routing and governance |
+| Agentic AI / MCP | ⭐⭐☆☆☆ | Exploring agent architectures for enterprise automation |
 
 ---
 
@@ -139,12 +140,12 @@ PowerShell scripts automating tape media lifecycle in Veeam Backup & Replication
 
 # Experience
 
-## Senior Technical Consultant
+## Senior Technical Consultant · Triple S Tecnologia
 *2021 — Present · Remote (São Paulo)*
 
 Consulting, troubleshooting and sustaining VMware virtualized and cloud environments with Veeam backup; report analysis, project design and implementation, continuous improvement.
 
-## Network & Server Support Analyst
+## Network & Server Support Analyst · EMPRO Tecnologia e Informação
 *2010 — 2021 · São José do Rio Preto/SP*
 
 Data Center infrastructure administration, VMware environment management, backup administration and replication, Windows/Linux server monitoring, client project design.
@@ -152,7 +153,7 @@ Data Center infrastructure administration, VMware environment management, backup
 ## Earlier Roles
 *2001 — 2010*
 
-Support Analyst, Support Technician, IT Instructor.
+Support Analyst (DHC Outsourcing – UOL), Support Technician (EMPRO, LSM Informática), IT Instructor (Prefeitura de São José do Rio Preto).
 
 ---
 
