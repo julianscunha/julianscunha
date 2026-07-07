@@ -31,8 +31,6 @@ Senior Technical Consultant with 15+ years in IT infrastructure, specializing in
 - Cloud Cost Modeling (AWS, Azure, VCSP/PPU licensing)
 - AI-assisted Development & Automation
 
-**Open to:** Infrastructure Automation • Developer Tooling • Enterprise Platforms • Open Source
-
 ---
 
 # Tech Stack
