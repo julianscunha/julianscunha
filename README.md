@@ -244,7 +244,7 @@ exploring:
 
 <div align="center">
 
-> "Engineering is the disciplined pursuit of reliable solutions."
+"Engineering is the disciplined pursuit of reliable solutions."
 
 ![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
