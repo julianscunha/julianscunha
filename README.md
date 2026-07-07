@@ -186,9 +186,9 @@ Support Analyst, Support Technician, IT Instructor.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
+![Streak](https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6)
 
 </div>
 
@@ -199,6 +199,19 @@ Support Analyst, Support Technician, IT Instructor.
 <div align="center">
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/julianscunha/julianscunha/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <img src="https://github.com/julianscunha/julianscunha/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation"/>
+</picture>
 
 </div>
 
