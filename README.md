@@ -231,10 +231,6 @@ exploring:
   - Agentic AI
   - Enterprise automation
 
-open_to:
-  - Infrastructure automation
-  - Enterprise AI
-  - Open Source
 ```
 
 ---
