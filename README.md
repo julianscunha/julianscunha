@@ -104,9 +104,6 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 
 ---
 
-> *"Engineering is the disciplined pursuit of reliable solutions."*
-
----
 # Featured Projects
 
 <details open>
@@ -401,22 +398,6 @@ AI
 | Cloud | AWS • Azure |
 | Interests | AI • Automation • Cloud • FinOps |
 | Current Focus | Enterprise AI Automation |
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/julianscunha">
-<img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/julianscunha">
-<img src="https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
