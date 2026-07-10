@@ -275,3 +275,157 @@ Responsible for infrastructure administration and implementation projects.
 ✔ Focused on **AI-assisted Engineering**, **LLM orchestration**, **Cloud Cost Modeling** and **Enterprise Automation**.
 
 ---
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Current:
+  - Enterprise Automation
+  - AI-assisted Engineering
+  - Cloud Architecture
+
+Learning:
+  - Agentic AI
+  - MCP
+  - Multi-agent Systems
+  - LLM Routing
+  - Kubernetes
+
+Building:
+  - Veeam Sizer Pro
+  - Lead.Tracker
+  - Enterprise Automation Platform
+
+Research:
+  - AI Governance
+  - Cost Optimization
+  - Cloud FinOps
+```
+
+---
+
+# Technologies Currently Working With
+
+```text
+Virtualization
+├── VMware vSphere
+├── ESXi
+├── vCenter
+├── vSAN
+└── NSX
+
+Backup
+├── Veeam Backup & Replication
+├── Veeam ONE
+├── Microsoft 365 Backup
+└── Disaster Recovery
+
+Cloud
+├── AWS
+├── Azure
+└── Hybrid Infrastructure
+
+Automation
+├── PowerShell
+├── Python
+├── FastAPI
+└── Bash
+
+AI
+├── MCP
+├── Prompt Engineering
+├── Multi-provider LLMs
+└── Agentic Workflows
+```
+
+---
+
+# GitHub Profile Summary
+
+| Category | Details |
+|-----------|---------|
+| Experience | 15+ Years |
+| Specialization | VMware • Veeam • Enterprise Infrastructure |
+| Languages | PowerShell • Python • Bash |
+| Cloud | AWS • Azure |
+| Interests | AI • Automation • Cloud • FinOps |
+| Current Focus | Enterprise AI Automation |
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/julianscunha">
+<img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/julianscunha">
+<img src="https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Engineering is the disciplined pursuit of reliable solutions."**
+
+<br>
+
+![Footer](https://capsule-render.com/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer)
+
+</div>
