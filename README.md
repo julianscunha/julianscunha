@@ -184,8 +184,8 @@ Support Analyst, Support Technician, IT Instructor.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
+![Stats](https://github-readme-stats-five-sigma-99.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6)
+![Top Languages](https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
 ![Streak](https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6)
 
 </div>
