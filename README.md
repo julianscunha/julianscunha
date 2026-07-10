@@ -182,19 +182,11 @@ Support Analyst, Support Technician, IT Instructor.
 
 # GitHub Analytics
 
-<table width="100%">
-  <tr>
-    <td width="33%">
-      <img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6"/>
-    </td>
-    <td width="33%">
-      <img width="100%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-    </td>
-    <td width="33%">
-      <img width="100%" src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="32%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" />
+  <img width="32%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6" />
+</p>
 
 ---
 
