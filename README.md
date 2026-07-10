@@ -9,8 +9,6 @@
   />
 </a>
 
-<br>
-
 <a href="https://www.linkedin.com/in/julianscunha">
   <img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,8 +24,6 @@
 ![](https://img.shields.io/github/stars/julianscunha?affiliations=OWNER&style=flat-square&color=A78BFA)
 
 </div>
-
----
 
 # About
 
