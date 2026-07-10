@@ -1,7 +1,5 @@
 <div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=220&text=Juliano%20Cunha&fontSize=42&fontColor=ffffff)
-
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Senior+Technical+Consultant;VMware+Infrastructure+Specialist;Veeam+Data+Protection+Expert;PowerShell+%7C+Python+%7C+Automation;Cloud+Architecture+%26+AI-assisted+Engineering"
@@ -17,7 +15,7 @@
   <img src="https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=julianscunha&style=flat-square&color=7C3AED)
 ![](https://img.shields.io/github/followers/julianscunha?style=flat-square&color=8B5CF6)
