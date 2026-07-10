@@ -1,167 +1,109 @@
-# Juliano Cunha
+<div align="center">
 
-::: {align="center"}
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Juliano%20Cunha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Technical%20Consultant%20%7C%20VMware%20%7C%20Veeam%20%7C%20Cloud&descAlignY=52)
+![Header](https://capsule-render.com/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=Juliano%20Cunha&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Technical%20Consultant%20%7C%20VMware%20%7C%20Veeam%20%7C%20Cloud&descAlignY=55)
 
-`<a href="https://git.io/typing-svg">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&repeat=true&height=60&color=A78BFA&center=true&vCenter=true&width=720&lines=Senior+Technical+Consultant;VMware+%7C+Veeam+%7C+Enterprise+Backup;PowerShell+%7C+Python+%7C+Automation;Cloud+%26+AI-assisted+Engineering"/>`{=html}
-`</a>`{=html}
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Senior+Technical+Consultant;VMware+Infrastructure+Specialist;Veeam+Data+Protection+Expert;PowerShell+%7C+Python+%7C+Automation;Cloud+Architecture+%26+AI-assisted+Engineering"
+    alt="Typing SVG"
+  />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianscunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianscunha/)
-[![GitHub](https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianscunha)
+<br>
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=julianscunha&style=flat-square&color=6D28D9)
-![Followers](https://img.shields.io/github/followers/julianscunha?style=flat-square&color=7C3AED)
-:::
+<a href="https://www.linkedin.com/in/julianscunha">
+  <img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-------------------------------------------------------------------------
+<a href="https://github.com/julianscunha">
+  <img src="https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=julianscunha&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/julianscunha?style=flat-square&color=8B5CF6)
+![](https://img.shields.io/github/stars/julianscunha?affiliations=OWNER&style=flat-square&color=A78BFA)
+
+</div>
+
+---
 
 # About
 
-Senior Technical Consultant with 15+ years of experience in enterprise
-infrastructure, virtualization, backup, automation and cloud solutions.
+Senior Technical Consultant with over **15 years of experience** in enterprise infrastructure, virtualization, backup, cloud computing and automation.
 
-## Core Expertise
+Specialized in designing, implementing and supporting mission-critical environments with emphasis on **VMware**, **Veeam**, **Windows Server**, **Linux**, **PowerShell**, **Python** and **Cloud** technologies.
 
--   VMware vSphere, ESXi, vCenter, vSAN, NSX
--   Veeam Backup & Replication
--   Microsoft 365 Backup
--   AWS & Azure
--   Windows & Linux
--   PowerShell
--   Python / FastAPI
--   AI-assisted Engineering
--   Enterprise Automation
+Currently focused on infrastructure automation, cloud cost optimization, AI-assisted engineering and enterprise tooling.
 
-------------------------------------------------------------------------
+---
 
-# Tech Stack
+# Core Expertise
 
-### Languages
+| Area | Technologies |
+|------|--------------|
+| 💾 Enterprise Backup | Veeam Backup & Replication, Veeam ONE, VB for Microsoft 365 |
+| ☁️ Cloud | AWS, Azure |
+| 🖥️ Virtualization | VMware ESXi, vCenter, vSAN, NSX, SRM |
+| ⚙️ Automation | PowerShell, Bash, Python |
+| 🐍 Development | Python, FastAPI |
+| 🗄️ Databases | PostgreSQL, MySQL, SQLite |
+| 🤖 AI | LLM Orchestration, MCP, Prompt Engineering |
+| 📊 Infrastructure | Windows Server, Linux, Storage, Networking |
 
-`<img src="https://skillicons.dev/icons?i=powershell,bash,py,js,html,css"/>`{=html}
+---
 
-### Backend
+# Technology Stack
 
-`<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite"/>`{=html}
+## Languages
 
-### Cloud
-
-`<img src="https://skillicons.dev/icons?i=aws,azure"/>`{=html}
-
-### Operating Systems
-
-`<img src="https://skillicons.dev/icons?i=linux,windows"/>`{=html}
-
-### DevOps
-
-`<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker"/>`{=html}
-
-------------------------------------------------------------------------
-
-# Featured Projects
-
--   **Veeam Sizer Pro** *(Private)* --- Cost modeling and licensing
-    platform.
--   **Broadcom.License.Assessment.Tool** --- VMware licensing
-    assessment.
--   **Veeam.VBR.ASBuilt** --- Automated AsBuiltReport execution.
--   **Lead.Tracker** --- AI-assisted opportunity intelligence.
--   **Veeam Tape Automation** --- Tape lifecycle automation.
-
-------------------------------------------------------------------------
-
-# Experience
-
-## Senior Technical Consultant (2021--Present)
-
--   Enterprise Backup
--   VMware
--   Cloud
--   Automation
--   Technical Consulting
-
-## Infrastructure Analyst (2010--2021)
-
--   VMware
--   Windows
--   Linux
--   Storage
--   Networking
-
-------------------------------------------------------------------------
-
-# Certifications
-
--   VMCE
--   VCP-DCV
--   VTSP
--   VMSP
-
-------------------------------------------------------------------------
-
-# GitHub Analytics
-
-```{=html}
-<p align="center">
-```
-`<img width="31%" src="https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-`<img width="31%" src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+<p>
+<img src="https://skillicons.dev/icons?i=powershell,bash,py,js,html,css" />
 </p>
-```
 
-------------------------------------------------------------------------
+## Backend
 
-# Activity
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite" />
+</p>
 
-::: {align="center"}
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true)
-:::
+## Cloud
 
-------------------------------------------------------------------------
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
 
-# Contribution Snake
+## Operating Systems
 
-::: {align="center"}
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake.svg"/>`{=html}
-`<img alt="Snake" src="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-contribution-grid-snake.svg"/>`{=html}
-`</picture>`{=html}
-:::
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
-------------------------------------------------------------------------
+## DevOps
 
-# Current Focus
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" />
+</p>
 
-``` yaml
-learning:
-  - AI Agents
-  - MCP
-  - Cloud Architecture
+---
 
-building:
-  - Veeam Sizer Pro
-  - Enterprise Automation
+# AI & Automation
 
-exploring:
-  - Multi-provider LLM orchestration
-```
+| Domain | Level |
+|---------|:----:|
+| Infrastructure Automation | ⭐⭐⭐⭐⭐ |
+| VMware Administration | ⭐⭐⭐⭐⭐ |
+| Veeam Data Protection | ⭐⭐⭐⭐⭐ |
+| Python Automation | ⭐⭐⭐⭐☆ |
+| PowerShell | ⭐⭐⭐⭐⭐ |
+| AI-assisted Development | ⭐⭐⭐⭐☆ |
+| Prompt Engineering | ⭐⭐⭐⭐☆ |
+| LLM Orchestration | ⭐⭐⭐☆☆ |
+| MCP | ⭐⭐☆☆☆ |
 
-------------------------------------------------------------------------
+---
 
-# Connect
+> *"Engineering is the disciplined pursuit of reliable solutions."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianscunha/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianscunha)
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-*"Engineering is the disciplined pursuit of reliable solutions."*
-
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-:::
+---
