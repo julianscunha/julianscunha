@@ -426,6 +426,6 @@ AI
 
 <br>
 
-![Footer](https://capsule-render.com/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=tokyonight)
 
 </div>
