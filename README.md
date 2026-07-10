@@ -43,7 +43,7 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 | 🤖 AI | LLM Orchestration, MCP, Prompt Engineering |
 | 📊 Infrastructure | Windows Server, Linux, Storage, Networking |
 
----
+
 
 # Technology Stack
 
@@ -77,7 +77,7 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" />
 </p>
 
----
+
 
 # AI & Automation
 
@@ -93,7 +93,7 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 | LLM Orchestration | ⭐⭐⭐☆☆ |
 | MCP | ⭐⭐☆☆☆ |
 
----
+
 
 # Featured Projects
 
@@ -162,7 +162,7 @@ Repositories:
 
 </details>
 
----
+
 
 # Professional Experience
 
@@ -185,7 +185,7 @@ Working with enterprise customers designing, deploying and supporting mission-cr
 - Troubleshooting
 - Customer Workshops
 
----
+
 
 ## Infrastructure & Network Analyst
 
@@ -204,7 +204,7 @@ Responsible for infrastructure administration and implementation projects.
 - Backup Solutions
 - Enterprise Networking
 
----
+
 
 ## Earlier Career
 
@@ -215,7 +215,7 @@ Responsible for infrastructure administration and implementation projects.
 - Help Desk
 - Infrastructure Support
 
----
+
 
 # Certifications
 
@@ -228,7 +228,7 @@ Responsible for infrastructure administration and implementation projects.
 | VTSP/VSP HCI | 2020 |
 | VTSP/VSP Foundation | 2019–2020 |
 
----
+
 
 ## Veeam
 
@@ -238,7 +238,7 @@ Responsible for infrastructure administration and implementation projects.
 | VMTSP Technical Sales | 2021 |
 | VMSP Sales Professional | 2021 |
 
----
+
 
 # Education
 
@@ -248,7 +248,7 @@ Responsible for infrastructure administration and implementation projects.
 | Technology Degree — IT Management | FATEC São José do Rio Preto | 2009 |
 | Technical Degree — Information Technology | ETEC Philadelpho Gouvêa Netto | 2006 |
 
----
+
 
 # Professional Highlights
 
@@ -262,7 +262,7 @@ Responsible for infrastructure administration and implementation projects.
 
 ✔ Focused on **AI-assisted Engineering**, **LLM orchestration**, **Cloud Cost Modeling** and **Enterprise Automation**.
 
----
+
 # GitHub Analytics
 
 <div align="center">
@@ -279,7 +279,7 @@ Responsible for infrastructure administration and implementation projects.
 
 </div>
 
----
+
 
 # Contribution Activity
 
@@ -289,7 +289,7 @@ Responsible for infrastructure administration and implementation projects.
 
 </div>
 
----
+
 
 # Contribution Snake
 
@@ -313,7 +313,7 @@ src="https://raw.githubusercontent.com/julianscunha/julianscunha/output/github-c
 
 </div>
 
----
+
 
 # Current Focus
 
@@ -341,7 +341,7 @@ Research:
   - Cloud FinOps
 ```
 
----
+
 
 # Technologies Currently Working With
 
@@ -377,7 +377,7 @@ AI
 └── Agentic Workflows
 ```
 
----
+
 
 <div align="center">
 
