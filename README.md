@@ -182,25 +182,19 @@ Support Analyst, Support Technician, IT Instructor.
 
 # GitHub Analytics
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" height="180"/>
+      <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6"/>
     </td>
-
     <td align="center">
-      <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="180"/>
+      <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
     </td>
-
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=julianscunha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6"/>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
