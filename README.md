@@ -29,7 +29,6 @@ Specialized in designing, implementing and supporting mission-critical environme
 
 Currently focused on infrastructure automation, cloud cost optimization, AI-assisted engineering and enterprise tooling.
 
----
 
 # Core Expertise
 
