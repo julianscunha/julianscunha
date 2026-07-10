@@ -388,19 +388,6 @@ AI
 
 ---
 
-# GitHub Profile Summary
-
-| Category | Details |
-|-----------|---------|
-| Experience | 15+ Years |
-| Specialization | VMware • Veeam • Enterprise Infrastructure |
-| Languages | PowerShell • Python • Bash |
-| Cloud | AWS • Azure |
-| Interests | AI • Automation • Cloud • FinOps |
-| Current Focus | Enterprise AI Automation |
-
----
-
 <div align="center">
 
 > **"Engineering is the disciplined pursuit of reliable solutions."**
