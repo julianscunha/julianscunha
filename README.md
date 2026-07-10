@@ -276,7 +276,7 @@ Responsible for infrastructure administration and implementation projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=julianscunha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img src="https://raw.githubusercontent.com/julianscunha/julianscunha/main/github-metrics.svg">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
