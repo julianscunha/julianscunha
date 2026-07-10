@@ -382,7 +382,7 @@ AI
 
 <div align="center">
 
-> **"Engineering is the disciplined pursuit of reliable solutions."**
+ **"Engineering is the disciplined pursuit of reliable solutions."**
 
 <br>
 
