@@ -6,16 +6,12 @@
     alt="Typing SVG"
   />
 </a>
-
 <a href="https://www.linkedin.com/in/julianscunha">
   <img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/julianscunha">
   <img src="https://img.shields.io/badge/GitHub-julianscunha-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br>
 
 ![](https://komarev.com/ghpvc/?username=julianscunha&style=flat-square&color=7C3AED)
 ![](https://img.shields.io/github/followers/julianscunha?style=flat-square&color=8B5CF6)
