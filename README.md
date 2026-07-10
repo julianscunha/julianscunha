@@ -107,3 +107,171 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 > *"Engineering is the disciplined pursuit of reliable solutions."*
 
 ---
+# Featured Projects
+
+<details open>
+<summary><b>🚀 Veeam Sizer Pro</b></summary>
+
+Enterprise sizing and licensing platform for **VCSP / PPU** environments.
+
+| Category | Details |
+|-----------|---------|
+| Status | 🚧 Private |
+| Stack | FastAPI • Python • SQLite • Chart.js • ReportLab • PowerPoint |
+| Purpose | Cost estimation, licensing validation and proposal generation |
+| Features | Multi-workload sizing, PDF reports, PPTX generation, AWS/Azure support |
+
+</details>
+
+<details>
+<summary><b>📊 Broadcom License Assessment Tool</b></summary>
+
+Automates VMware licensing assessment according to Broadcom's subscription model.
+
+| Category | Details |
+|-----------|---------|
+| Language | PowerShell |
+| Focus | VMware Licensing |
+| Repository | https://github.com/julianscunha/Broadcom.License.Assessment.Tool |
+
+</details>
+
+<details>
+<summary><b>📚 Veeam VBR AsBuilt</b></summary>
+
+Automated deployment and execution of **AsBuiltReport** for Veeam Backup & Replication.
+
+| Category | Details |
+|-----------|---------|
+| Language | PowerShell |
+| Focus | Automated Documentation |
+| Repository | https://github.com/julianscunha/Veeam.VBR.ASBuilt |
+
+</details>
+
+<details>
+<summary><b>🤖 Lead.Tracker</b></summary>
+
+AI-assisted Opportunity Intelligence Platform.
+
+| Category | Details |
+|-----------|---------|
+| Focus | Sales Intelligence |
+| Technologies | Python • FastAPI • AI |
+| Repository | https://github.com/julianscunha/Lead.Tracker |
+
+</details>
+
+<details>
+<summary><b>💾 Tape Automation Suite</b></summary>
+
+PowerShell automation for tape media lifecycle.
+
+Repositories:
+
+- https://github.com/julianscunha/Veeam.Tape.Import
+- https://github.com/julianscunha/Veeam.Tape.Expired.Control
+
+</details>
+
+---
+
+# Professional Experience
+
+## Senior Technical Consultant
+
+**2021 — Present**
+
+Working with enterprise customers designing, deploying and supporting mission-critical infrastructures.
+
+### Main Responsibilities
+
+- VMware Infrastructure
+- Veeam Backup & Replication
+- Microsoft 365 Backup
+- Enterprise Storage
+- Disaster Recovery
+- Cloud Architecture
+- Performance Analysis
+- Technical Consulting
+- Troubleshooting
+- Customer Workshops
+
+---
+
+## Infrastructure & Network Analyst
+
+**2010 — 2021**
+
+Responsible for infrastructure administration and implementation projects.
+
+### Technologies
+
+- VMware vSphere
+- Windows Server
+- Linux
+- SAN Storage
+- Active Directory
+- Hyper-V
+- Backup Solutions
+- Enterprise Networking
+
+---
+
+## Earlier Career
+
+**2001 — 2010**
+
+- IT Instructor
+- Support Technician
+- Help Desk
+- Infrastructure Support
+
+---
+
+# Certifications
+
+## VMware
+
+| Certification | Year |
+|---------------|------|
+| VCP-DCV | 2022 |
+| VTSP/VSP vRealize Operations | 2021 |
+| VTSP/VSP HCI | 2020 |
+| VTSP/VSP Foundation | 2019–2020 |
+
+---
+
+## Veeam
+
+| Certification | Year |
+|---------------|------|
+| VMCE v11 | 2023 |
+| VMTSP Technical Sales | 2021 |
+| VMSP Sales Professional | 2021 |
+
+---
+
+# Education
+
+| Degree | Institution | Year |
+|---------|-------------|------|
+| Postgraduate — Web & Mobile Development Engineering | SENAC | 2020 |
+| Technology Degree — IT Management | FATEC São José do Rio Preto | 2009 |
+| Technical Degree — Information Technology | ETEC Philadelpho Gouvêa Netto | 2006 |
+
+---
+
+# Professional Highlights
+
+✔ More than **15 years** working with enterprise infrastructure.
+
+✔ Specialized in **VMware** and **Veeam** ecosystems.
+
+✔ Strong background in **PowerShell automation**.
+
+✔ Developing enterprise applications using **Python** and **FastAPI**.
+
+✔ Focused on **AI-assisted Engineering**, **LLM orchestration**, **Cloud Cost Modeling** and **Enterprise Automation**.
+
+---
