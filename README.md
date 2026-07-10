@@ -384,8 +384,5 @@ AI
 
  **"Engineering is the disciplined pursuit of reliable solutions."**
 
-<br>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=tokyonight)
-
 </div>
