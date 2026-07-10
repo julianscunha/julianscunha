@@ -207,7 +207,7 @@ Support Analyst, Support Technician, IT Instructor.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/julianscunha/julianscunha/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <source media="(prefers-color-scheme: white)" srcset="https://github.com/julianscunha/julianscunha/blob/output/github-contribution-grid-snake.svg?raw=true">
   <img src="https://github.com/julianscunha/julianscunha/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation"/>
 </picture>
 
