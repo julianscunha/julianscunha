@@ -1,5 +1,6 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=220&text=Juliano%20Cunha&fontSize=42&fontColor=ffffff)
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=220&text=Juliano%20Cunha&fontSize=42&fontColor=ffffff)
 
   <a href="https://git.io/typing-svg">
   <img
