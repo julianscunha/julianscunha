@@ -1,7 +1,6 @@
 <div align="center">
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=220&text=Juliano%20Cunha&fontSize=42&fontColor=ffffff)
-
   <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Senior+Technical+Consultant;VMware+Infrastructure+Specialist;Veeam+Data+Protection+Expert;PowerShell+%7C+Python+%7C+Automation;Cloud+Architecture+%26+AI-assisted+Engineering"
