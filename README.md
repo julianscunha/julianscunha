@@ -98,13 +98,13 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 # Featured Projects
 
 <details open>
-<summary><b>🚀 Veeam Sizer Pro</b></summary>
+<summary><b> Veeam Sizer Pro</b></summary>
 
 Enterprise sizing and licensing platform for **VCSP / PPU** environments.
 
 | Category | Details |
 |-----------|---------|
-| Status | 🚧 Private |
+| Status |  Private |
 | Stack | FastAPI • Python • SQLite • Chart.js • ReportLab • PowerPoint |
 | Purpose | Cost estimation, licensing validation and proposal generation |
 | Features | Multi-workload sizing, PDF reports, PPTX generation, AWS/Azure support |
@@ -112,7 +112,7 @@ Enterprise sizing and licensing platform for **VCSP / PPU** environments.
 </details>
 
 <details>
-<summary><b>📊 Broadcom License Assessment Tool</b></summary>
+<summary><b> Broadcom License Assessment Tool</b></summary>
 
 Automates VMware licensing assessment according to Broadcom's subscription model.
 
@@ -125,7 +125,7 @@ Automates VMware licensing assessment according to Broadcom's subscription model
 </details>
 
 <details>
-<summary><b>📚 Veeam VBR AsBuilt</b></summary>
+<summary><b> Veeam VBR AsBuilt</b></summary>
 
 Automated deployment and execution of **AsBuiltReport** for Veeam Backup & Replication.
 
@@ -138,7 +138,7 @@ Automated deployment and execution of **AsBuiltReport** for Veeam Backup & Repli
 </details>
 
 <details>
-<summary><b>🤖 Lead.Tracker</b></summary>
+<summary><b> Lead.Tracker</b></summary>
 
 AI-assisted Opportunity Intelligence Platform.
 
@@ -151,7 +151,7 @@ AI-assisted Opportunity Intelligence Platform.
 </details>
 
 <details>
-<summary><b>💾 Tape Automation Suite</b></summary>
+<summary><b> Tape Automation Suite</b></summary>
 
 PowerShell automation for tape media lifecycle.
 
