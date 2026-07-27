@@ -34,14 +34,14 @@ Currently focused on infrastructure automation, cloud cost optimization, AI-assi
 
 | Area | Technologies |
 |------|--------------|
-| 💾 Enterprise Backup | Veeam Backup & Replication, Veeam ONE, VB for Microsoft 365 |
-| ☁️ Cloud | AWS, Azure |
-| 🖥️ Virtualization | VMware ESXi, vCenter, vSAN, NSX, SRM |
-| ⚙️ Automation | PowerShell, Bash, Python |
-| 🐍 Development | Python, FastAPI |
-| 🗄️ Databases | PostgreSQL, MySQL, SQLite |
-| 🤖 AI | LLM Orchestration, MCP, Prompt Engineering |
-| 📊 Infrastructure | Windows Server, Linux, Storage, Networking |
+| Enterprise Backup | Veeam Backup & Replication, Veeam ONE, VB for Microsoft 365 |
+| Cloud | AWS, Azure |
+| Virtualization | VMware ESXi, vCenter, vSAN, NSX, SRM |
+| Automation | PowerShell, Bash, Python |
+| Development | Python, FastAPI |
+| Databases | PostgreSQL, MySQL, SQLite |
+| AI | LLM Orchestration, MCP, Prompt Engineering |
+| Infrastructure | Windows Server, Linux, Storage, Networking |
 
 
 
@@ -266,8 +266,6 @@ Responsible for infrastructure administration and implementation projects.
 # GitHub Analytics
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/julianscunha/julianscunha/main/github-metrics.svg">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
