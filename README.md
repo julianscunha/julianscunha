@@ -267,7 +267,11 @@ Responsible for infrastructure administration and implementation projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianscunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![Top Language](https://img.shields.io/github/languages/top/julianscunha/Tech.Forge?color=7C3AED&label=Top%20Language)
+![Repo Size](https://img.shields.io/github/repo-size/julianscunha/Tech.Forge?color=7C3AED&label=Repo%20Size)
+![Forks](https://img.shields.io/github/forks/julianscunha/Tech.Forge?color=7C3AED&label=Forks)
+![Stars](https://img.shields.io/github/stars/julianscunha/Tech.Forge?color=7C3AED&label=Stars)
+![License](https://img.shields.io/github/license/julianscunha/Tech.Forge?color=7C3AED&label=License)
 
 </div>
 
@@ -283,7 +287,7 @@ Responsible for infrastructure administration and implementation projects.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph-amber.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
