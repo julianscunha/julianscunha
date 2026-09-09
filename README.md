@@ -283,15 +283,6 @@ Responsible for infrastructure administration and implementation projects.
 
 
 
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/julianscunha"/>
-
-</div>
-
-
 
 # Contribution Snake
 
