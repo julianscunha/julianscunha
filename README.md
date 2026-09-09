@@ -287,7 +287,7 @@ Responsible for infrastructure administration and implementation projects.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=julianscunha&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/julianscunha"/>
 
 </div>
 
